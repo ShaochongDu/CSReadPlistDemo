@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>isUsed</key>
+		<true/>
+		<key>itemId</key>
+		<string>0</string>
+		<key>itemTitle</key>
+		<string>类型</string>
+		<key>itemIcon</key>
+		<string>GiftIcon</string>
+	</dict>
+	<dict>
+		<key>isUsed</key>
+		<true/>
+		<key>itemId</key>
+		<string>1</string>
+		<key>itemTitle</key>
+		<string>户外活动</string>
+		<key>itemIcon</key>
+		<string>GiftIcon</string>
+	</dict>
+	<dict>
+		<key>isUsed</key>
+		<true/>
+		<key>itemId</key>
+		<string>2</string>
+		<key>itemTitle</key>
+		<string>聚会交友</string>
+		<key>itemIcon</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>isUsed</key>
+		<true/>
+		<key>itemId</key>
+		<string>3</string>
+		<key>itemTitle</key>
+		<string>亲子互动</string>
+		<key>itemIcon</key>
+		<string>LiftIcon</string>
+	</dict>
+	<dict>
+		<key>isUsed</key>
+		<true/>
+		<key>itemId</key>
+		<string>4</string>
+		<key>itemTitle</key>
+		<string>孕婴交流</string>
+		<key>itemIcon</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>isUsed</key>
+		<true/>
+		<key>itemId</key>
+		<string>5</string>
+		<key>itemTitle</key>
+		<string>DIY</string>
+		<key>itemIcon</key>
+		<string>LiftIcon</string>
+	</dict>
+</array>
+</plist>

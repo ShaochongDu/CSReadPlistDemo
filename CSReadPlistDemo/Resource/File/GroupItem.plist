@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>isUsed</key>
+		<true/>
+		<key>headerDes</key>
+		<string>section0 header 习近平同摩洛哥国王举行会谈 男女毕业12年没联系 同学会当晚确定恋人关系</string>
+		<key>footerDes</key>
+		<string></string>
+		<key>itemArray</key>
+		<array>
+			<dict>
+				<key>isUsed</key>
+				<true/>
+				<key>itemId</key>
+				<string>0</string>
+				<key>itemTitle</key>
+				<string>section0  李克强：将投资项目审批减至42项  消费品升级</string>
+				<key>itemIcon</key>
+				<string>GiftIcon</string>
+			</dict>
+			<dict>
+				<key>isUsed</key>
+				<true/>
+				<key>itemId</key>
+				<string>0</string>
+				<key>itemTitle</key>
+				<string>section0  标题2</string>
+				<key>itemIcon</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>isUsed</key>
+		<true/>
+		<key>headerDes</key>
+		<string></string>
+		<key>footerDes</key>
+		<string>section1 footer ==========</string>
+		<key>itemArray</key>
+		<array>
+			<dict>
+				<key>isUsed</key>
+				<true/>
+				<key>itemId</key>
+				<string>0</string>
+				<key>itemTitle</key>
+				<string>section1 --  标题1</string>
+				<key>itemIcon</key>
+				<string>LiftIcon</string>
+			</dict>
+			<dict>
+				<key>isUsed</key>
+				<true/>
+				<key>itemId</key>
+				<string>0</string>
+				<key>itemTitle</key>
+				<string>section1 ----标题2</string>
+				<key>itemIcon</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>isUsed</key>
+		<true/>
+		<key>headerDes</key>
+		<string>section2 header -----从《奋斗》到《欢乐颂》：十年间时代精神已变</string>
+		<key>footerDes</key>
+		<string>section2 footer ----- 222222222三大运营商日赚4亿，也难掩发展困境。今日上午，中移动召开中层以上管理人员大会，宣布了党中央、国务院的决定，尚冰将担任中移动董事长。联通、电信董事长将互调，在移动互联网冲击和4G普及的大环境下，电信业将迎来关键改革期，你看好这次改革吗</string>
+		<key>itemArray</key>
+		<array>
+			<dict>
+				<key>isUsed</key>
+				<true/>
+				<key>itemId</key>
+				<string>0</string>
+				<key>itemTitle</key>
+				<string>section2标题1</string>
+				<key>itemIcon</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>isUsed</key>
+				<true/>
+				<key>itemId</key>
+				<string>0</string>
+				<key>itemTitle</key>
+				<string>section2 马英九接受专访谈520后两岸关系：长叹一声“唉”</string>
+				<key>itemIcon</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>isUsed</key>
+		<true/>
+		<key>headerDes</key>
+		<string></string>
+		<key>footerDes</key>
+		<string></string>
+		<key>itemArray</key>
+		<array>
+			<dict>
+				<key>isUsed</key>
+				<true/>
+				<key>itemId</key>
+				<string>0</string>
+				<key>itemTitle</key>
+				<string>section3 美国超级高铁首测成功 速度比飞机还要快(图)</string>
+				<key>itemIcon</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>isUsed</key>
+				<true/>
+				<key>itemId</key>
+				<string>0</string>
+				<key>itemTitle</key>
+				<string>section3-=-=-=-=-=-=标题2</string>
+				<key>itemIcon</key>
+				<string>WalletIcon</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>isUsed</key>
+		<false/>
+		<key>headerDes</key>
+		<string>section4 header 德国统一25年后首次扩军 俄罗斯:此举属于挑衅</string>
+		<key>footerDes</key>
+		<string></string>
+		<key>itemArray</key>
+		<array>
+			<dict>
+				<key>isUsed</key>
+				<true/>
+				<key>itemId</key>
+				<string>0</string>
+				<key>itemTitle</key>
+				<string>section4 时速1200公里！美公司开测“超级高铁”</string>
+				<key>itemIcon</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
